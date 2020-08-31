@@ -1,4 +1,4 @@
-# Webpack Config
+# Webpack Config - Landing Page
 
 Proyecto base para comenzar a desarrollar aplicaciones utilizando Webpack.
 
